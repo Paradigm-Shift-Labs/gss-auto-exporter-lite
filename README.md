@@ -1,4 +1,4 @@
-# Google Sheets Auto Exporter
+# Google Sheets Auto Exporter - lite
 Script to auto export a sheet from Google Sheets Workbook to .csv or .tsv to a folder on Google Drive
 
 ## Background
