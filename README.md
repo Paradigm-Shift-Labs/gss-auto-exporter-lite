@@ -1,7 +1,7 @@
 # Google Sheets Auto Exporter
 Script to auto export a sheet from Google Sheets Workbook to .csv or .tsv to a folder on Google Drive
 
-## Detailed description
+## Background
 I needed a way to export a sheet from Google Sheets to .csv or .tsv. The google sheet consists of a big list, to keep track of inventory. The sheet has multiple 'sections' with merged cells as section breaks, and the sheet has one too many columns that was not required for the export. I would like to keep the section breaks cause it's human readable, and the sheet is modified often. A hidden sheet 'buffer' was created, with required columns from the main sheet using the `INDIRECT` function.
 
 This version of the auto exporter script exports the contents of the buffer sheet to a .tsv to a specified destination folder.
