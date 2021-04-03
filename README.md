@@ -7,7 +7,7 @@ I needed a way to export a sheet from Google Sheets to .csv or .tsv. The google 
 This version of the auto exporter script exports the contents of the buffer sheet to a .tsv to a specified destination folder.
 
 ## How to use
-1. Use the script editor to create a new autoExporter.gs file. Getting started information about Google Sheets script editor can be found [here] (https://zapier.com/learn/google-sheets/google-apps-script-tutorial/).
+1. Use the script editor to create a new autoExporter.gs file. Getting started information about Google Sheets script editor can be found [here](https://zapier.com/learn/google-sheets/google-apps-script-tutorial/).
 2. Copy and paste the code from autoExporter.gs (found in this repository) to the script that was created in the Apps Script from the previous step.
 3. Add in the custom file/folder names and destinations, information about the variables is below:
 
@@ -23,8 +23,8 @@ var destFolderID = "####";          // Replace #### with the Google Drive folder
 4. OPTIONAL: I created an automatic trigger for every 1 hour to auto export the sheet.
 
 ## See also
-1. I found [this] (https://ploi.io/documentation/database/where-do-i-get-google-drive-folder-id) link useful to get the destination folder ID.
-2. More information about using auto triggering events in Google script can be found [here] (https://developers.google.com/apps-script/guides/triggers/installable).
+1. I found [this](https://ploi.io/documentation/database/where-do-i-get-google-drive-folder-id) link useful to get the destination folder ID.
+2. More information about using auto triggering events in Google script can be found [here](https://developers.google.com/apps-script/guides/triggers/installable).
 
 
 ## License
