@@ -31,5 +31,5 @@ Feel free to contribute to the project. Isses and pull requests are welcome!
 
 ## License information
 
-Copyright (c) 2021 Theja Ram Pingali
+Copyright (c) 2021 paradigm-shift-labs
 This library is licensed under the MIT License. Feel free to use this code, or any part of it to make your life (or workflow) a tiny bit easier.
